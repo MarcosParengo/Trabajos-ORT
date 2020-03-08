@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404149601719",
+    "firebase_url": "https://usuarios2-5de12.firebaseio.com",
+    "project_id": "usuarios2-5de12",
+    "storage_bucket": "usuarios2-5de12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404149601719:android:8e3681c2324fc663",
+        "android_client_info": {
+          "package_name": "com.ort.casievaluacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404149601719-hfj073i8oaie2l2e8bkldshksrggjvts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbf9Bo5AA8qRG0CDXTnTInqFyMK0ZJHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404149601719-hfj073i8oaie2l2e8bkldshksrggjvts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
